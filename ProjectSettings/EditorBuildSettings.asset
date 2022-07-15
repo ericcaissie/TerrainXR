@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BlindVR.unity
+    guid: 65d91a443c6b37d479240b0ebe3b15fa
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1640c74a8e5ef764ca6cc53dfd9eb875,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 228fea78d939b4bb9a4cea9e5d3df286,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dd0ea657d43d3cd4caba63a660cce3f8,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 4b0df47538e71c044b2c4279e72ee856,
+      type: 2}
